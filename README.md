@@ -1,7 +1,7 @@
 ### Olá... Eu sou Fernanda Pimenta! 👋🏾
 ------
 <p> 👩🏾‍💼 Servidora Pública <br>
-<p> 🎓 Graduada em Engenharia da Computação (2019) <br>
+<p> 🎓 Graduada em Engenharia da Computação (2018) <br>
 <p> 👩🏾‍💻 Analista de Sistemas <br><br>
 
 #### Atualmente trabalhando com:
