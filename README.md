@@ -1,27 +1,30 @@
 ### Olá... Eu sou Fernanda Pimenta! 👋🏾
--------
+------
 <p> 👩🏾‍💼 Servidora Pública <br>
 <p> 🎓 Graduada em Engenharia da Computação (2019) <br>
-<p> 👩🏾‍💻 Analista de Sistemas <br>
+<p> 👩🏾‍💻 Analista de Sistemas <br><br>
 
-##
 #### Atualmente trabalhando com:
-- PHP
-- HTML
-- CSS
+<div style="display: inline_block"><br>
+  <img align="center" alt="Fernanda-PHP" height="30" width="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg">
+  <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br><br>
 
-##
 #### Aprendendo:
-- Laravel
-- Vue3
-- InertiaJS
-- Tailwind
-- PrimeVue
+<br>
+  <img align="center" alt="Fernanda-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg">
+  <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original-wordmark.svg">
+  <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg">
+  <img align="center" alt="Fernanda-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" alt="Fernanda-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/primeng/primeng-original.svg">
+</div><br>
 
-##
+----
 #### <p> Curiosidades sobre mim: <br>
 <p> 🏋🏾‍♀️ Praticante de Musculação <br>
-<p> 💃🏾 Apaixonada por Dança <br>
+<p> 💃🏾 Apaixonada por FitDance <br>
 <p> 🙏🏾 Yeshua | Aba-Pai <br>
 
 ##
